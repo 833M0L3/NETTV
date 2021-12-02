@@ -65,3 +65,12 @@ And that's it. Whenever I want to access the 3rd party installed apps, I simply 
 
 * **Kodi (If you know it's capability and how to use it, it is definitely a best way to enjoy media content on your TV Box.)** https://kodi.tv/download
 
+![Kodi](/kodi.png)
+
+* **Streamio ( One of the best Torrent Streamer out there. You can also use PopCorn time )** https://www.stremio.com/downloads
+
+![Streamio](/streamio.png)
+
+* Aptoid ( Probbaly the best way to quickly download and install 3rd party Android Apps ) https://tv.aptoide.com/
+
+![Aptoide](/aptoide.png)
