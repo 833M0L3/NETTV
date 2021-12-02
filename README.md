@@ -42,6 +42,13 @@ Here's a screenshot of my ATV Launcher setup which I took some time to customise
 
 ![ATV](/atv.png)
 
+# There is also a easier method to install apps using ES File Explorer
+* Install ES File Explorer on your Phone ( Note : it's not available on Google Play Store. You can download it from [here](https://es-file-explorer.en.uptodown.com/android) )
+* Open it and on left swipe menu bar inside the Network section , you should see Android TV option. Click on it and wait for it to detect your TV Box ( Note : Your Phone and TV Box must be on same network )
+* You should see a IP Folder type appear, click on it and it should prompt same Adb Dialoge box on your TV Box, allow it.
+* This will install ES File Explorer on your NETTV Setup Box and it will launc itself
+* Using it you can connect a flash drive full of apks you want to install and use ES File Explorer to install them
+
 # What's my current NETTV Setup ?
 
 Currently , I don't use ATV Launcher. As it was getting difficult for my family members to navigate to the Live TV. And since NETTV's default Launcher is so well integrated with Live TV and auto launch on startup. I decided to set it as default. BUT , the big problem was, how am I going to access the installed apps list. So, while I was thinking about this, I found a opensource project on Github https://github.com/sds100/KeyMapper, it's an android app that let's you edit the default remote key maps and set your own. So an idea came to my mind. 
@@ -49,11 +56,11 @@ Currently , I don't use ATV Launcher. As it was getting difficult for my family 
 * Then I installed Key Mapper app and set an key for launching Sideload Launcher from my NETTV's Remote
 * Then I unistalled ATV Launcher 
 
-And that's it. Whenever I want to access the 3rd party installed apps, I simply press that key on my NETTV Remote and it simply launches Sideload Launcher. This will let me access all my apps while still retaining NETTV's Live TV and default Launcher + no performance loss.
+And that's it. Whenever I want to access the 3rd party installed apps, I simply press that key on my NETTV Remote ( the one you set to open certain app from Key Mapper app) and it simply launches Sideload Launcher. This will let me access all my apps while still retaining NETTV's Live TV and default Launcher + no performance loss.
 
 ![SideLoad](/sideload.png)
 
-# Cools Apps to sideload on your NETTV Setup Box
+# Cool Apps to sideload on your NETTV Setup Box
 
 * **If you are an Anime fan, then you should definitely install this app called FireAnime.** https://github.com/XenTeckzX/FireAnime
 
@@ -71,6 +78,13 @@ And that's it. Whenever I want to access the 3rd party installed apps, I simply 
 
 ![Streamio](/streamio.png)
 
-* Aptoid ( Probbaly the best way to quickly download and install 3rd party Android Apps ) https://tv.aptoide.com/
+* **Aptoide ( Probbaly the best way to quickly download and install 3rd party Android Apps )** https://tv.aptoide.com/
 
 ![Aptoide](/aptoide.png)
+
+ * ES File Explorer
+ * Link2SD ( For freezing NETTV Junk apps since they install automatically if you unistalled them )
+ * RetroArch ( To play classic NES or PS games on your TV Box if you got game controllers )
+ * Send Files To TV ( Yes, it's an app name )
+ 
+
