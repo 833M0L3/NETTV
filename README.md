@@ -22,3 +22,46 @@ First let's explain what we are going to do. We are going to use the IR Blaster 
 
 ![MiRemote2](/miremote2.png)
 
+# Using ADB via Network
+Once system settings is opened , enable Developer Option and enable USB Debugging.
+
+![SystemSettings](/systemsettings.jpg)
+
+Make sure your device and NETTV is connected in the same network. Find out your NETTV's IP Addresss ( you can look it up on NETTV's Settings app on Ethernet option ).
+
+Once you you get the IP address, get your ADB installed PC ready and open cmd or Terminal, and enter ``adb connect [NETTV's IP Address]:[5555]``
+For example : **adb connect 192.168.134:5555**
+
+![ADB1](/adbcmd.jpg)
+
+After you hit Enter, you should see a prompt on your NETTV's TV Screen. Tick on Always Allow and and click on Ok.
+![ADBPrompt](/adbpromt.jpg)
+
+Now you have connected to the adb of the NETTV. You can simply download apk on your PC and do ``adb install example.apk``. That will install the apk on your STB. I recommend installing ATV Launcher app via adb and then press Home button on the NETTV Remote, that will give you an prompt to choose which Launcher you want to use, simply choose ATV Launcher.Thus, ATV Launcher will let you access the installed apps. 
+Here's a screenshot of my ATV Launcher setup which I took some time to customise :
+
+![ATV](/atv.png)
+
+# What's my current NETTV Setup ?
+
+Currently , I don't use ATV Launcher. As it was getting difficult for my family members to navigate to the Live TV. And since NETTV's default Launcher is so well integrated with Live TV and auto launch on startup. I decided to set it as default. BUT , the big problem was, how am I going to access the installed apps list. So, while I was thinking about this, I found a opensource project on Github https://github.com/sds100/KeyMapper, it's an android app that let's you edit the default remote key maps and set your own. So an idea came to my mind. 
+* Firstly I installed an app called Sideload Launcher for Android TV, this app lets you list installed apk without acting as an home launcher. 
+* Then I installed Key Mapper app and set an key for launching Sideload Launcher from my NETTV's Remote
+* Then I unistalled ATV Launcher 
+
+And that's it. Whenever I want to access the 3rd party installed apps, I simply press that key on my NETTV Remote and it simply launches Sideload Launcher. This will let me access all my apps while still retaining NETTV's Live TV and default Launcher + no performance loss.
+
+![SideLoad](/sideload.png)
+
+# Cools Apps to sideload on your NETTV Setup Box
+
+* **If you are an Anime fan, then you should definitely install this app called FireAnime.** https://github.com/XenTeckzX/FireAnime
+
+![FireAnime](/fireanime.png)
+
+* **SmartTubeNext ( A similar app like Youtube Vanced but designed only for Android TVs )** https://github.com/yuliskov/SmartTubeNext
+
+![STubeNEXT](/stube.png)
+
+* **Kodi (If you know it's capability and how to use it, it is definitely a best way to enjoy media content on your TV Box.)** https://kodi.tv/download
+
