@@ -42,11 +42,13 @@ Here's a screenshot of my ATV Launcher setup which I took some time to customise
 
 ![ATV](/atv.png)
 
-# There is also a easier method to install apps using ES File Explorer
-* Install ES File Explorer on your Phone ( Note : it's not available on Google Play Store. You can download it from [here](https://es-file-explorer.en.uptodown.com/android) )
+# There is also a easier method to install apps using ES File Explorer ( Might not work )
+
+Follow these steps right after you enable USB debugging on your NETTV Box
+* Install ES File Explorer on your Phone ( Note : It is not available on Google Play Store. You can download it from [here](https://es-file-explorer.en.uptodown.com/android) )
 * Open it and on left swipe menu bar inside the Network section , you should see Android TV option. Click on it and wait for it to detect your TV Box ( Note : Your Phone and TV Box must be on same network )
 * You should see a IP Folder type appear, click on it and it should prompt same Adb Dialoge box on your TV Box, allow it.
-* This will install ES File Explorer on your NETTV Setup Box and it will launc itself
+* This will install ES File Explorer on your NETTV Setup Box and it will launch itself
 * Using it you can connect a flash drive full of apks you want to install and use ES File Explorer to install them
 
 # What's my current NETTV Setup ?
@@ -82,9 +84,9 @@ And that's it. Whenever I want to access the 3rd party installed apps, I simply 
 
 ![Aptoide](/aptoide.png)
 
- * ES File Explorer
- * Link2SD ( For freezing NETTV Junk apps since they install automatically if you unistalled them )
- * RetroArch ( To play classic NES or PS games on your TV Box if you got game controllers )
- * Send Files To TV ( Yes, it's an app name )
+ * **ES File Explorer**
+ * **Link2SD ( For freezing NETTV Junk apps since they install automatically if you unistalled them )**
+ * **RetroArch ( To play classic NES or PS games on your TV Box if you got game controllers )**
+ * **Send Files To TV ( Yes, it's an app name )**
  
 
