@@ -1,4 +1,4 @@
-# Bypassing/Hacking Worldlink's NETTV Setup box restriction to install 3rd party android apps
+# Bypassing/Hacking NETTV Setup box restriction to install 3rd party android apps
 **Note : This is for educational purposes only.**
 
 ![Setupbox](/setupbox.jpg)
