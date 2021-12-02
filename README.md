@@ -1,7 +1,9 @@
 # Bypassing Worldlink's NETTV Setup box restriction to install 3rd party android apps
+**Note : This is for educational purposes only.**
+
 ![Setupbox](/setupbox.jpg)
 
-This works on NETTV White Setup box. Dunno about other models.
+This works on NETTV White Setup box. Dunno about other models. I wanted to sideload 3rd party apps as I hated switching between NETTV HDMI and my other Mi Box S HDMI on my TV. The NETTV Setup Box is a quite capable box, having 1 GB RAM and a S905 SoC. These doesn't seem much but to run native android apps and do video streaming, S905 SoC is more than enough. It has a capability of decoding 4k HEVC contents. I only downside I found was the RAM. Well , whatever, I am currently sideloading apps and never found any difference in performance compared to my Mi Box 4k. Apps I use on Mi Box 4k performs exactly the same on NETTV Setup Box. 
 
 # Things you will need
 * A Redmi Phone with IR Blaster ( This is very important and is one of the most crucial part of this method, without this I don't think it is possible)
