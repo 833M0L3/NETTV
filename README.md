@@ -20,9 +20,9 @@ First let's explain what we are going to do. We are going to use the IR Blaster 
 ![MiRemote1](/miremote1.png)
 
 * Look for **Home Digital** and select it
-* A new menu will come up with virtual power button. Point your phone towards NETTV Setup Box and press the virutal power button. That should open the system settings on your TV Box.
+* A new menu will come up with virtual power button. Point your phone towards NETTV Setup Box and press the top right button as shown in the image below. That should open the system settings on your TV Box.
 
-![MiRemote2](/miremote2.png)
+![MiRemote2](/jx9dez4cnx0a1.jpeg)
 
 # Using ADB via Network
 Once system settings is opened , enable Developer Option and enable USB Debugging.
