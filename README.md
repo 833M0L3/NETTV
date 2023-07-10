@@ -66,6 +66,9 @@ And that's it. Whenever I want to access the 3rd party installed apps, I simply 
 
 # Cool Apps to sideload on your NETTV Setup Box
 
+* **Stream Movies & TV Shows**  
+https://onstream.to/
+
 * **If you are an Anime fan, then you should definitely install this app called FireAnime.** https://github.com/XenTeckzX/FireAnime
 
 ![FireAnime](/fireanime.png)
@@ -85,6 +88,8 @@ And that's it. Whenever I want to access the 3rd party installed apps, I simply 
 * **Aptoide ( Probbaly the best way to quickly download and install 3rd party Android Apps )** https://tv.aptoide.com/
 
 ![Aptoide](/aptoide.png)
+* **FOSS Web browser optimized for use with remote**  
+https://github.com/truefedex/tv-bro
 
  * **ES File Explorer**
  * **Link2SD ( For freezing NETTV Junk apps since they install automatically if you unistalled them )**
