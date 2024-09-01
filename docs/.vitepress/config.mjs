@@ -41,6 +41,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/833M0L3/NETTV' }
     ],
+    base: '/NETTV/',
     editLink: {
       pattern: 'https://github.com/833M0L3/NETTV/edit/main/docs/:path'
     }
