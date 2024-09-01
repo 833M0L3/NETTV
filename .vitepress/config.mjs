@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "nettvdocs",
   description: "Docs and comprehensive guides about Worldlink Communication's NETTV",
-  base: '/NETTV/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -41,9 +40,6 @@ export default defineConfig({
     lastUpdated: true,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/833M0L3/NETTV' }
-    ],
-    editLink: {
-      pattern: 'https://github.com/833M0L3/NETTV/edit/main/docs/:path'
-    }
+    ]
   }
 })
