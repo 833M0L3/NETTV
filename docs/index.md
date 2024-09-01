@@ -7,7 +7,7 @@ hero:
   text: "Comprehensive Guide"
   tagline: Everything there is to know about NETTV
   image:
-    src: /assets/nettvlogo.png
+    src: /nettvlogo.png
     alt: LOGO
   actions:
     - theme: brand
