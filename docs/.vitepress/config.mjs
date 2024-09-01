@@ -8,6 +8,7 @@ export default defineConfig({
   editLink: {
     pattern: 'https://github.com/833M0L3/NETTV/edit/main/docs/:path'
   },
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
