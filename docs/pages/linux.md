@@ -36,3 +36,5 @@ If you want to wipe the eMMC and install Linux on it then you could do it, by fo
 ::: tip
 This Linux image doesn't interfere with the Box's original recovery and bootloader. So you should be able to restore the wiped Android OS, using the box's firmware that can be found here [NETTV Firmwares](./firmware). Just put the firmware on your USB , bring the stock recovery menu and select the firmware zip file.  
 :::
+
+![Firmware](/assets/firmware.jpg)
