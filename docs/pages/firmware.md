@@ -1,10 +1,13 @@
 # NETTV Firmwares
 
-Collection of NETTV Setupbox firmwares. Might be useful when you brick your box
+Collection of NETTV Setupbox firmwares. Might be useful incase you bricked your box.
 
 ## White Box
 Build Version Android 7.1 020F07
 http://giecota.nettv.com.np/ota_files/00226D600001/020F07.zip
+
+Build Version Android 7.1 021007
+http://giecota.nettv.com.np/ota_files/00226D600001/021007.zip
 
 
 ## Steamz+
