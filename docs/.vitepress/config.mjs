@@ -38,7 +38,8 @@ export default defineConfig({
           { text: 'Optimal Launchers', link: '/pages/optimal' },
           { text: 'Recommended Apps', link: '/pages/apps' },
           { text: 'Blocking Ads', link: '/pages/ads' },
-          { text: 'NETTV Firmwares', link: '/pages/firmware' }
+          { text: 'NETTV Firmwares', link: '/pages/firmware' },
+          { text: 'Linux Installation', link: '/pages/linux' }
         ],
       }
     ],

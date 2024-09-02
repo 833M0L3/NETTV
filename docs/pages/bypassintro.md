@@ -3,7 +3,7 @@
 This is for educational purposes only
 :::
 ::: warning
-This bypass method is for ``NETTV White Setup Box`` only
+These bypass methods are for ``NETTV White Setup Box`` only
 :::
 
 ![LOGO](/assets/atv.png)
@@ -15,6 +15,6 @@ Also, when your NETTV subscription is over, you can't even use the box for Youtu
 
 ## Compatibility
 
-The bypass methods presented in this documentation work on specific firmware versions. So make sure that your box has the supported firmware. To check your firmware version goto settings and about. The firmware version code format are in hexadecimal and they look like these : ``020F07`` ``020A07`` . In the system settings they are shown as build version.
+These bypass methods presented in this documentation work on specific firmware versions. So make sure that your box has the supported firmware. To check your firmware version goto settings and about. The firmware version code format are in hexadecimal and they look like these : ``020F07`` ``020A07`` . In the system settings they are shown as build version.
 
 
