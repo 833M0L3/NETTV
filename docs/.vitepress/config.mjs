@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Recommended Apps', link: '/pages/apps' },
           { text: 'Blocking Ads', link: '/pages/ads' },
           { text: 'NETTV Firmwares', link: '/pages/firmware' },
+          { text: 'IPTV Apps', link: '/pages/iptv' },
           { text: 'Linux Installation', link: '/pages/linux' }
         ],
       }
