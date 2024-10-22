@@ -11,6 +11,10 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    footer: {
+      message: '<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Open-source Apache Licensed</a> <span class="divider">|</span> <a href="https://www.nettv.com.np/">NETTV</a>',
+      copyright: 'Copyright © 2025 833M0L3'
+    },
     nav: [
       { text: 'Home', link: '/' }
     ],

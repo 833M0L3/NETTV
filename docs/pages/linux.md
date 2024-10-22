@@ -1,6 +1,6 @@
 # Linux Installation <Badge type="warning" text="Medium" />
 ::: warning
-This is for White Setup Box only. This might brick your device if you are not careful enough. Author of this documentation will take no responsibility. You are doing it on your own risk.  
+This is for [WHITE SETUP BOXES](./boxes.html#_2-gx1001-box-2019-present) only. This might brick your device if you are not careful enough. Author of this documentation will take no responsibility. You are doing it on your own risk.  
 :::
 Linux installation or running linux on Amlogic devices have been possible since many years. These setup boxes have similiar board design to the popular odroid and banana pis. Meaning , these devices have mainline linux kernel support. There have been many works in the past years to make it perfect. Currently, it works perfectly if you want to use it as a home server. You can self host email server , torrent server, file server, so on. These TV boxes are perfect for this kind of job.
 
