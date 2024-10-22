@@ -11,7 +11,7 @@ Topic   | Details
 Package Name | com.conax.golive.dishnepal
 Version | 6.0.8023
 Minimum Android Support     | Oreo (8.0.0) - API level 26
-Download     | [APK](https://raw.githubusercontent.com/833M0L3/NETTV/refs/heads/main/apks/dhgo.apk)
+Download     | [APK](https://github.com/833M0L3/NETTV/blob/main/apks/dhgo.apk)
 
 
 ## NETTV
@@ -22,7 +22,7 @@ Topic   | Details
 Package Name | np.com.androidtv.nettv
 Version | 2.0.10
 Minimum Android Support     | Nougat (7) - API level 24
-Download     | [APK](https://raw.githubusercontent.com/833M0L3/NETTV/refs/heads/main/apks/netatv.apk)
+Download     | [APK](https://github.com/833M0L3/NETTV/blob/main/apks/netatv.apk)
 
 
 ::: tip
