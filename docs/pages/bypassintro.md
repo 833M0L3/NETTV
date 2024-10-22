@@ -3,7 +3,7 @@
 This is for educational purposes only
 :::
 ::: warning
-These bypass methods are for ``NETTV White Setup Box`` only
+These bypass methods are for [NETTV WHITE BOXES](./boxes.html#_2-gx1001-box-2019-present) only
 :::
 
 ![LOGO](/assets/atv.png)

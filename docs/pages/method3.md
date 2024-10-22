@@ -5,7 +5,7 @@ This methods works with any firmware version
 :::
 
 ## Things you will need
-* [UART to USB Converter](https://www.daraz.com.np/products/ttl-usb-converter-usb-stc-isp-usb-to-serial-5-pin-serial-adapter-module-33v5v-power-i105763539-s1027613590.html?spm=a2a0e.searchlist.list.38.496cbc6dju4XgJ&search=1)
+* [UART to USB Converter](https://s.daraz.com.np/s.d0qy)
 * NETTV Box
 * Screw Driver
 * PC

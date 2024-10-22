@@ -93,7 +93,7 @@ HDMI    | HDMI 2.1 ,Support HDMI CEC, Dynamic HDR And And 4K@24 Max Resolution O
 These boxes MAC Address prefix starts as 90:0E:B3:00
 :::
 
-NETTV-1000 boxes were first seen in 2023. These boxes look similar to like NETTV Streamz+ and run on Android 10. These boxes are also heavily restricted like previous ones and run on the same launcher as them except Streamz+. Unlike other boxes, this one has it's native Android Settings available and it is possible to enable developer option. These boxes have Allwinner H313 SoC, first of it's kind in the NETTV boxes.
+NETTV-1000 boxes were first seen in 2023. These boxes look similar to NETTV Streamz+ and run on Android 10. These boxes are also heavily restricted like previous ones and have the same launcher as them except Streamz+. Unlike other boxes, this one has it's native Android Settings available and it is possible to enable developer option. These boxes have Allwinner H313 SoC, first of it's kind in the NETTV boxes.
 
 ### Hardware Specs
 
@@ -109,6 +109,8 @@ Ethernet| 100M
 USB     | 2 x USB 2.0
 Bluetooth| 4.0
 HDMI    | HDMI 2.1 ,Support HDMI CEC, Dynamic HDR And And 4K@24 Max Resolution Output
+
+### Early Launcher UI
 
 ![LauncherUI](/assets/launcherui2v2.jpg)
 ![Settings](/assets/settings.jpg)
