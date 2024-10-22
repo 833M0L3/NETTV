@@ -16,7 +16,9 @@ export default defineConfig({
       copyright: 'Copyright © 2025 833M0L3'
     },
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/' },
+      { text: 'Contributors', link: '/pages/contributors' }
+
     ],
 
     sidebar: [
@@ -51,6 +53,9 @@ export default defineConfig({
     lastUpdated: true,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/833M0L3/NETTV' }
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
   }
 })
