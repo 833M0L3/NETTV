@@ -39,7 +39,9 @@ These boxes MAC Address prefix starts as  00:22:6D:80
 :::
 
 GX1001 also known as white setup box, started appearing after Worldlink got involved with the NETTV. In 2019, when NETTV parted it's ways with other ISPs, they decided to completely change the box for some reasons. These new boxes are slightly more powerful compared to the previous boxes. And they all come with Amlogic processor.
-
+::: tip
+This box has two variants. Both are from a same company and has similar specs, and board design but the newer one seems to have Bluetooth chip as well. And they run on firmware versions ``020809`` ``020409`` which is based on android version above 9. These boxes are not bypassable with the usual methods and the UART method might not also work based on the 1st version's pinout. Might have to rediscover the right pins.
+:::
 ### Hardware Specs
 
 Basic   | Spec Sheet
