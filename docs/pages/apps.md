@@ -55,4 +55,8 @@ Comes handy while mapping specific remote buttons to perform or open specific ta
 
 Good app for streaming IPTV playlists. https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=en
 
+To add Nepali channels, create a new M3U playlist and paste this in "Link to the playlist": https://raw.githubusercontent.com/ioprakash/iptv/refs/heads/main/Nepali.m3u
+
+If you want more channels, see: https://github.com/iptv-org/iptv#playlists
+
 ![Televizo](/assets/t001.webp)
