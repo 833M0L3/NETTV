@@ -17,10 +17,10 @@ If you know it's capability and how to use it, it is definitely a best way to en
 
 ![Kodi](/assets/kodi.png)
 
-## Streamio
+## Stremio
 One of the best Torrent Streamer out there. https://www.stremio.com/downloads
 
-![Streamio](/assets/streamio.webp)
+![Stremio](/assets/stremio.webp)
 
 ## Aptoide
 Probbaly the best way to quickly download and install 3rd party Android Apps https://tv.aptoide.com/
