@@ -17,10 +17,10 @@ If you know it's capability and how to use it, it is definitely a best way to en
 
 ![Kodi](/assets/kodi.png)
 
-## Streamio
+## Stremio
 One of the best Torrent Streamer out there. https://www.stremio.com/downloads
 
-![Streamio](/assets/streamio.webp)
+![Stremio](/assets/stremio.webp)
 
 ## Aptoide
 Probbaly the best way to quickly download and install 3rd party Android Apps https://tv.aptoide.com/
@@ -54,5 +54,9 @@ Comes handy while mapping specific remote buttons to perform or open specific ta
 ## Televizo
 
 Good app for streaming IPTV playlists. https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=en
+
+To add Nepali channels, create a new M3U playlist and paste this in "Link to the playlist": https://raw.githubusercontent.com/ioprakash/iptv/refs/heads/main/Nepali.m3u
+
+If you want more channels, see: https://github.com/iptv-org/iptv#playlists
 
 ![Televizo](/assets/t001.webp)
