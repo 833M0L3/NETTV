@@ -40,28 +40,35 @@ These boxes MAC Address prefix starts as  00:22:6D:80
 
 GX1001 also known as white setup box, started appearing after Worldlink got involved with the NETTV. In 2019, when NETTV parted it's ways with other ISPs, they decided to completely change the box for some reasons. These new boxes are slightly more powerful compared to the previous boxes. And they all come with Amlogic processor.
 ::: tip
-This box has two variants. Both are from a same company and has similar specs, and board design but the newer one seems to have Bluetooth chip as well. And they run on firmware versions ``020809`` ``020409`` which is based on android version above 9. These boxes are not bypassable with the usual methods and the UART method might not also work based on the 1st version's pinout. Might have to rediscover the right pins.
+This box has two variants. Both are from a same company and has similar specs, and board design but the newer one seems to have Bluetooth chip as well.This box has Amlogic S905L3 chipset with box model named ``p291_iptv``. And they run on firmware versions ``020809`` ``020409`` which is based on android version 9. These boxes are not bypassable with the usual methods, only [Method 3](./method3.html) works.
 :::
 ### Hardware Specs
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-SoC     | Amlogic S905X ARMv8-A 
+SoC     | Amlogic S905X ARMv8-A (```p212```) / Amlogic S905L3 (```p291```)
 GPU     | ARM Mali-450
 Memory  | 1 GB RAM
 Storage | 8 GB
 WiFi    | 2.4 Ghz
 Ethernet| 100M
 USB     | 2 x USB 2.0
-Bluetooth| N/A
+Bluetooth| N/A (```p212```) / Available (```p291```)
 HDMI    | HDMI 2.1 ,Support HDMI CEC, Dynamic HDR And And 4K@24 Max Resolution Output
 
-### Early Launcher UI
+### Early Launcher UI 
 
 ![LauncherUI](/assets/launcheruiv2.jpg)
 ![LauncherUI](/assets/launcherui2v2.jpg)
 ![LauncherUI](/assets/launcherui3v2.jpg)
+::: tip
+``p212`` box variant Settings
+![Settings](/assets/p212_settings.png)
 
+``p291`` box variant Settings
+![Settings](/assets/p291_settings3.jpg)
+
+:::
 ## 3. SEI500NTV Box ( 2022 - Present )
 
 ![Setupbox](/assets/streamzbox.png)

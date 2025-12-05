@@ -1,7 +1,7 @@
 # Bypass Method 3  <Badge type="danger" text="Hard" />
 
 ::: tip
-This methods works with any firmware version   
+This methods works with any firmware version. If you have box with firmware version ``20809`` ``020409``, follow the PIN out headers as shown [here](./method3.html#for-another-variant-p291)
 :::
 
 ## Things you will need
@@ -30,8 +30,24 @@ Once you connect the right PIN, power on the box while connecting it to the conv
 
 I used Putty on Windows for the serial connection. You can use whatever tool you like. Once you get everything right you should get a booting info throw in the screen that is similar to Linux. Once it completes booting, you have the shell access. It's that easy.
 
-You can go full root using su and start modifying things you would like to change. The first thing I did was install a different launcher and that's all. Since it's an adb shell, you can directly install apps using adb commands.
+You can go full root using su and start modifying things you would like to change. The first thing I did was install a different launcher and that's all. Since it's an adb shell, you can directly install apps using adb commands. To access the downloaded apks, you can keep them on a flash drive and connect it to the box, and navigate to the drive directory which is usually inside ```cd /storage/```
 
 ![UART3](/assets/uart3.jpg)
 
-And that's all. With a different launcher, you can install other 3rd party apps. Once a 3rd party launcher is installed press home in the remote, and it should pop up an option to choose a default launcher. 
+And that's all. With a different launcher, you can install other 3rd party apps. Once a 3rd party launcher is installed, press home button on the remote, and it should pop up an option to choose a default launcher. 
+
+![UART3](/assets/uart5.jpg)
+
+## For another variant (P291)
+
+This is for the new NETTV whitebox variant that looks similar to the older one but has different specs and board. This new box has Amlogic S905L chipset with bluetooth connectivity. Along with that it comes with Android 9 and has weird striped down native Android settings available. The settings won't let you turn on developers option.
+
+Below is an image of the board with labeled UART.
+
+![UART3](/assets/p291_board.jpg)
+![UART3](/assets/p291_board2.jpg)
+::: tip
+Unlike other variant where you can just open settings and enable developer option, this box has developer option disabled from the native settings app. To enable developer option and gain wireless adb, you will have to install a 3rd party app [Developer Option](https://raw.githubusercontent.com/833M0L3/NETTV/refs/heads/main/apks/dev_option.apk).
+
+![UART3](/assets/p291_developer.jpg)
+:::
